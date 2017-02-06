@@ -472,6 +472,9 @@ h6,
 #menu-g .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#header2-2 .mbr-section-text {
+  text-align: left;
+}
 #features7-f .card-subtitle {
   color: #bcbcbc;
 }
