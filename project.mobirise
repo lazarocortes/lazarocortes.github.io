@@ -184,6 +184,9 @@
             ".iconbox": {
               "background-color": "#02008c",
               "border-color": "#02008c"
+            },
+            "SPAN": {
+              "text-align": "right"
             }
           },
           "_name": "features7",
@@ -224,7 +227,7 @@
               "newWindow": false
             }
           },
-          "title1": "<span style=\"font-weight: normal;\">Graphic Designer<br>I always liked to design things</span>",
+          "title1": "<span style=\"font-weight: normal;\">Graphic Designer</span><br><span style=\"font-weight: normal;\">I always liked to design things\u001b and <br>I think It coud it could be a career for me.</span>",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",

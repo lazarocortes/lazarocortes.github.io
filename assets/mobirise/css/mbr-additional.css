@@ -482,6 +482,9 @@ h6,
   background-color: #02008c;
   border-color: #02008c;
 }
+#features7-f SPAN {
+  text-align: right;
+}
 #menu-i .hide-buttons .nav-btn {
   display: none !important;
 }
