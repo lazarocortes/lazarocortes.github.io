@@ -418,15 +418,15 @@ h6,
   color: #ffffff;
 }
 #menu-g .navbar-toggler {
-  color: #ffffff;
+  color: #7e9b9f;
 }
 #menu-g .close-icon::before,
 #menu-g .close-icon::after {
-  background-color: #ffffff;
+  background-color: #7e9b9f;
 }
 #menu-g .link,
 #menu-g .dropdown-item {
-  color: #ffffff;
+  color: #7e9b9f;
 }
 #menu-g .link {
   font-size: 0.75rem;
@@ -458,7 +458,7 @@ h6,
   background: #282828;
 }
 #menu-g .bg-color.transparent .link {
-  color: #ffffff;
+  color: #7e9b9f;
   transition: none;
 }
 #menu-g .bg-color.transparent.opened .link {
