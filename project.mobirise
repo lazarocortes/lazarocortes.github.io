@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "intro.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -280,7 +280,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-85x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/screenshot-20170303-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
