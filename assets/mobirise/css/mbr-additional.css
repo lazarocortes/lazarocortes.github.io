@@ -537,6 +537,9 @@ h6,
 #menu-g .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#form1-1a .form-control-label {
+  color: #232323;
+}
 
 
 #menu-g .hide-buttons .nav-btn {
