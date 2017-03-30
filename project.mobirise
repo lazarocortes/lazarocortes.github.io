@@ -902,8 +902,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/lazaro-cortes-record-2000x2000-800x8008.jpg",
-                "image": "@PROJECT_PATH@/assets/images/lazaro-cortes-record-2000x200012.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/lazaro-cortes-record-2000x2000-800x8000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lazaro-cortes-record-2000x20004.jpg",
                 "caption": "2 Pac CD Label",
                 "active": false
               },
@@ -912,8 +912,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/lazaro-cortes-2000x2000-800x8009.jpg",
-                "image": "@PROJECT_PATH@/assets/images/lazaro-cortes-2000x200013.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/lazaro-cortes-2000x2000-800x8001.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lazaro-cortes-2000x20005.jpg",
                 "caption": "Hulk Fist Recreation<br>",
                 "active": false
               },
@@ -922,8 +922,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/flash-web-2000x2000-800x80010.jpg",
-                "image": "@PROJECT_PATH@/assets/images/flash-web-2000x200014.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/flash-web-2000x2000-800x8002.jpg",
+                "image": "@PROJECT_PATH@/assets/images/flash-web-2000x20006.jpg",
                 "caption": "Flash Logo Recreation<br>",
                 "active": false
               },
@@ -932,8 +932,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/ironman-web-2000x2000-800x80011.jpg",
-                "image": "@PROJECT_PATH@/assets/images/ironman-web-2000x200015.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ironman-web-2000x2000-800x8003.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ironman-web-2000x20007.jpg",
                 "caption": "Iron Man Recreation",
                 "active": true
               }
