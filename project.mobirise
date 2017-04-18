@@ -836,7 +836,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LAZARO CORTES</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-arrow-next mbr-iconfont mbr-iconfont-btn\"></span>Introduction</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\"><span class=\"mbri-arrow-next mbr-iconfont mbr-iconfont-btn\"></span>Application</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"PhotoShop.html\">Adobe PhotoShop</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Oficce Suite&nbsp;<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"file:///Users/lazarocortes/Downloads/Discuss%20IT%20Topic%206%20(1).pdf\">DisscusIT 6<br></a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"mbri-arrow-next mbr-iconfont mbr-iconfont-btn\"></span>credentials</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><span class=\"mbri-arrow-next mbr-iconfont mbr-iconfont-btn\"></span>Reference</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp; &nbsp; &nbsp; Teacher<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp; &nbsp; &nbsp; Comunity memeber<br><br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp; &nbsp; &nbsp; &nbsp;Close family friend<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-arrow-next mbr-iconfont mbr-iconfont-btn\"></span>Introduction</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><span class=\"mbri-arrow-next mbr-iconfont mbr-iconfont-btn\"></span>Application</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Premiere</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://youtu.be/BtgF9hu8dPI\">Imagin Dragons</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"mbri-arrow-next mbr-iconfont mbr-iconfont-btn\"></span>credentials</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><span class=\"mbri-arrow-next mbr-iconfont mbr-iconfont-btn\"></span>Reference</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp; &nbsp; &nbsp; Teacher<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp; &nbsp; &nbsp; Comunity memeber<br><br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp; &nbsp; &nbsp; &nbsp;Close family friend<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
         },
         {
           "_tags": [
@@ -902,8 +902,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/lazaro-cortes-record-2000x2000-800x8000.jpg",
-                "image": "@PROJECT_PATH@/assets/images/lazaro-cortes-record-2000x20004.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/lazaro-cortes-record-2000x2000-800x8008.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lazaro-cortes-record-2000x200012.jpg",
                 "caption": "2 Pac CD Label",
                 "active": false
               },
@@ -912,8 +912,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/lazaro-cortes-2000x2000-800x8001.jpg",
-                "image": "@PROJECT_PATH@/assets/images/lazaro-cortes-2000x20005.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/lazaro-cortes-2000x2000-800x8009.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lazaro-cortes-2000x200013.jpg",
                 "caption": "Hulk Fist Recreation<br>",
                 "active": false
               },
@@ -922,8 +922,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/flash-web-2000x2000-800x8002.jpg",
-                "image": "@PROJECT_PATH@/assets/images/flash-web-2000x20006.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/flash-web-2000x2000-800x80010.jpg",
+                "image": "@PROJECT_PATH@/assets/images/flash-web-2000x200014.jpg",
                 "caption": "Flash Logo Recreation<br>",
                 "active": false
               },
@@ -932,8 +932,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/ironman-web-2000x2000-800x8003.jpg",
-                "image": "@PROJECT_PATH@/assets/images/ironman-web-2000x20007.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ironman-web-2000x2000-800x80011.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ironman-web-2000x200015.jpg",
                 "caption": "Iron Man Recreation",
                 "active": true
               }
